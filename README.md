@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Screaam Zombie
+## 👋 Hi there, I'm Scream Zombie
 
 I'm a programmer who loves systems programming, programming languages, and theorem proving.  
 I mainly write in **Python** and **C++**, and I enjoy exploring tools like **NeoVim**, and **VSCode**.
